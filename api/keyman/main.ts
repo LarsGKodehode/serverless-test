@@ -3,6 +3,10 @@
  */
 
 // This is the secret we want to keep from the frontend
+// Also this is not something you want exposed in a public
+// GitHub repository, you really do not want it in any repository,
+// but this allows us to keep it somewhat secret while avoiding
+// quite a bit of complexity
 const API_KEY = ""
 
 // We have the base URL here since we will not change it in the code
