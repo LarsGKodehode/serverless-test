@@ -1,0 +1,10 @@
+{
+  "name": "@serverless-test/keyman",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "deploy": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
